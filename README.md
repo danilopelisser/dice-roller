@@ -18,7 +18,7 @@ Este projeto demonstra um ambiente básico com uma aplicação python que gera n
   git clone https://github.com/danilopelisser/dice-roller.git
 
 - Buildar aplicações:
-  - #cd observability
+  - #cd dice-roller/observability
   - #sudo docker-compose up --build -d 
 
 # Testes de funcionamento (acesso URL via browser gera SPANS OTEL)
