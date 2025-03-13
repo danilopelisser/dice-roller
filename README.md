@@ -1,5 +1,5 @@
 # dice-roller
- # Desafio utilizando OTEL + LGTM
+ # Desafio utilizando OTEL + LGTM + Prometheus
 Este projeto demonstra um ambiente básico com uma aplicação python que gera números aleatórios, métricas e erros que foi instrumentada com Opentelemetry, Grafana, Loki e Tempo.
 
 # Requisitos
